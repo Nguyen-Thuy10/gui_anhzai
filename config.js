@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Anh zai iu  à!',
+    introTitle: 'Anh zai  à!',
     introDesc: `Vậy thì nhiều tiền để làm gì?
     Chả hiểu nhiều tiền để làm gì?
     Nhiều tiền để mình, làm, được, thật là, nhiều điều thần kì
